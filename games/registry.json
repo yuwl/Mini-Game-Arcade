@@ -31,5 +31,16 @@
     "tags": ["经典", "单人"],
     "color": "#E91E63",
     "added": "2026-05-22"
+  },
+  {
+    "id": "minesweeper",
+    "name": "扫雷",
+    "description": "经典扫雷，三种难度，考验逻辑推理",
+    "path": "games/minesweeper/index.html",
+    "thumb": "",
+    "icon": "💣",
+    "tags": ["益智", "单人"],
+    "color": "#607D8B",
+    "added": "2026-05-22"
   }
 ]
