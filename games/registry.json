@@ -20,5 +20,16 @@
     "tags": ["益智", "单人"],
     "color": "#FF9800",
     "added": "2026-05-22"
+  },
+  {
+    "id": "tetris",
+    "name": "俄罗斯方块",
+    "description": "经典俄罗斯方块，消除行数挑战高分",
+    "path": "games/tetris/index.html",
+    "thumb": "",
+    "icon": "🧱",
+    "tags": ["经典", "单人"],
+    "color": "#E91E63",
+    "added": "2026-05-22"
   }
 ]
