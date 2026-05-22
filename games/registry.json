@@ -42,5 +42,16 @@
     "tags": ["益智", "单人"],
     "color": "#607D8B",
     "added": "2026-05-22"
+  },
+  {
+    "id": "sudoku",
+    "name": "数独",
+    "description": "经典数独，三种难度，训练逻辑思维",
+    "path": "games/sudoku/index.html",
+    "thumb": "",
+    "icon": "🧩",
+    "tags": ["益智", "单人"],
+    "color": "#3F51B5",
+    "added": "2026-05-22"
   }
 ]
